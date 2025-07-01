@@ -1,4 +1,4 @@
 # ✨
  <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxra&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaxra&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117"/>
  </div>
